@@ -1,6 +1,10 @@
 # Segmentacion Inteligente de Clientes mediante Modelo RFM y K-Means
 ### Proyecto de Mineria de Datos y Business Intelligence - Taller Donald
-**Desarrollado por:** Cristian Chamo  
+**Desarrollado por:** 
+* Cristian Eduardo Chamo Morales
+* Keily Atalia Lopez Hernandez
+* Delmy Maria Fajardo Borrayo 
+
 **Institucion:** Universidad Mariano Galvez de Guatemala (UMG)  
 **Facultad:** Ingenieria en Sistemas de Informacion y Ciencias de la Computacion  
 
@@ -91,12 +95,6 @@ Modulo netamente operativo para la toma de decisiones:
 
 * La Ley de Pareto se cumple: El cluster definido como VIP, a pesar de representar una de las proporciones mas pequenas en cantidad de clientes individuales, acumula el mayor impacto en el volumen total de facturacion de Taller Donald.
 * Mitigacion del Churn: La identificacion masiva del segmento En Riesgo abre una ventana de oportunidad critica para frenar el abandono de clientes historicos mediante incentivos directos (cupones de mantenimiento o diagnosticos gratis).
-
----
-### Desarrollado por:
-* Cristian Eduardo Chamo Morales
-* Keily Atalia Lopez Hernandez
-* Delmy Maria Fajardo Borrayo
 
 ---
 ### Universidad Mariano Galvez de Guatemala sede Jalapa, Jalapa
