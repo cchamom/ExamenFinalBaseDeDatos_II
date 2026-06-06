@@ -96,7 +96,7 @@ Modulo netamente operativo para la toma de decisiones:
 ### Desarrollado por:
 * Cristian Eduardo Chamo Morales
 * Keily Atalia Lopez Hernandez
-*Delmy Maria Fajardo Borrayo
+* Delmy Maria Fajardo Borrayo
 
 ---
 ### Universidad Mariano Galvez de Guatemala sede Jalapa, Jalapa
